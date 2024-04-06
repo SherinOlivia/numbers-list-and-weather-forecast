@@ -28,7 +28,7 @@ Result :
 
 [![Weather-Forecast-Result](/media/weatherForecastResult.png)](/media/weatherForecastResult.png)
 
-### Personal Take
+## Personal Take
 
 Thanks to this experience, I was able to further enrich my knowledge as I was able to get reminded on how to use "for loop" in Typescript while trying to finish the two tasks, and also to get to know more syntaxes for mathematic operations in coding (such as %).
 
